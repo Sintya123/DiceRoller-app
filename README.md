@@ -1,3 +1,3 @@
 # DiceRoller-app
-![roll (1)](https://github.com/Sintya123/DiceRoller-app/assets/99961374/3b21bb59-fb4b-49dc-817d-4178cf2863ba)
+![roll (5)](https://github.com/Sintya123/DiceRoller-app/assets/99961374/7b5eb712-4eda-4a07-a262-4a7bbc4163e1)
 
